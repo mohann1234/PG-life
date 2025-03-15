@@ -3,15 +3,6 @@
 The PG-Life Web Application is a platform designed to facilitate the management and search for Paying Guest (PG) accommodations. 
 It allows users to explore available PG options, view details, and connect with potential landlords or tenants.
 
-verfy:
-
-click this--> https://github.com/Spixmacaw/-Web_development-PGlife_website1.git
-
->where: 
-This website referral url.
-   
-click this :http://debanjansarkar.epizy.com/PGLIFE/index.php
-   
 .Entire web-app is fully responsive and is operational from any device.
 
 .skills users:- HTML, CSS, Bootstrap ,Javascript,AJAX, PHP, MySQL, react.
@@ -44,14 +35,7 @@ Technologies Used:
         5.PHP
         6.MySQL-Database(phpMyAdmin_server)
     Thank you!
-![ Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Spixmacaw Stats](https://github-readme-stats.vercel.app/api?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Spixmacaw Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spixmacaw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<hr>
-
-![Alt](https://repobeats.axiom.co/api/embed/f713688be87aa5899cb61012215ab0e43e64b7af.svg "Repobeats analytics image")
 
 
 
